@@ -4,11 +4,13 @@
 
 I have an MBA background and am building technical skills through hands-on work with Python, SQL and cloud data workflows. I focus on small, understandable projects, reproducible results and clear documentation.
 
-## Featured project
+## Featured work
 
 | Project | What you can try | Status |
 | --- | --- | --- |
 | [House Price Prediction](https://github.com/muhammadaliraza126/House-Price-Prediction) | Run a synthetic housing regression demo, validate a CSV, compare a model with a baseline and export JSON metrics | Educational prototype with automated tests |
+
+| [CSV Data Quality Checker](https://github.com/muhammadaliraza126/House-Price-Prediction/tree/main/tools) | Detect blanks, duplicate records, malformed rows and numeric errors; export JSON without extra dependencies | Standalone companion tool in the housing repository |
 
 The housing demo uses synthetic data. It is not a production valuation service or evidence of real-world prediction accuracy.
 
