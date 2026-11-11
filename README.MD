@@ -1,18 +1,34 @@
-Muhammad Ali Raza
-Exploring practical AI, data engineering, and reliable data workflows.
+# Muhammad Ali Raza
 
-I have an MBA background and am developing my technical skills through hands-on learning in Python, SQL, and cloud data engineering. My focus is on understanding how tools work, testing the results, and documenting what I learn.
-Current learning focus
-- Python and SQL: data handling, validation, and automation.
-- AWS data workflows: S3, Glue, and Athena.
-- Data engineering: ETL pipelines, Apache Iceberg, and data quality.
-- Infrastructure and collaboration: Terraform, Git, and GitHub.
-- Applied AI: using AI tools responsibly to support learning and development.
-What I want to build
-Small, useful tools that make working with data easier, starting with CSV data-quality checks and clear reports.
-How I work
-- Start with a concrete problem and a small working example.
-- Test changes and document limitations.
-- Use synthetic or openly licensed sample data.
-- Review AI-assisted code and build understanding alongside it.
-I'm at the beginning of my open-source journey and welcome constructive feedback.
+### Practical AI · Data quality · Data engineering
+
+I have an MBA background and am building technical skills through hands-on work with Python, SQL and cloud data workflows. I focus on small, understandable projects, reproducible results and clear documentation.
+
+## Featured project
+
+| Project | What you can try | Status |
+| --- | --- | --- |
+| [House Price Prediction](https://github.com/muhammadaliraza126/House-Price-Prediction) | Run a synthetic housing regression demo, validate a CSV, compare a model with a baseline and export JSON metrics | Educational prototype with automated tests |
+
+The housing demo uses synthetic data. It is not a production valuation service or evidence of real-world prediction accuracy.
+
+## Current learning
+
+- Python and SQL for data handling, validation and automation.
+- AWS workflows with S3, Glue and Athena.
+- ETL pipelines, Apache Iceberg and data quality.
+- Terraform, Git and GitHub collaboration.
+- Practical and responsible use of AI development tools.
+
+## How I work
+
+- Begin with a concrete problem and a working example.
+- Test behavior and document limitations.
+- Use synthetic or appropriately licensed data.
+- Review AI-assisted work and build understanding alongside it.
+
+## Open-source direction
+
+I am at the beginning of my open-source journey. I want to build useful data-quality tools and improve projects through genuine feedback and contributions.
+
+For a reproducible bug or improvement to the housing project, please use its [issue tracker](https://github.com/muhammadaliraza126/House-Price-Prediction/issues). Contributions are welcome through the project's contribution guide.
